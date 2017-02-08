@@ -2,9 +2,17 @@ div {
   width: 400px;
   margin: 50px auto;
   background-color: black;
+  text-align: center;
 }
 
 h1 {
   text-align: center;
   color: white;
+}
+
+div button{
+  border-radius: 4px;
+  background-color: lightblue;
+  border: 2px solid;
+  font-size: 30px;
 }
